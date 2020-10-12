@@ -1,4 +1,4 @@
 EcdlPlay
 ========
 
-Repositorio para subir el código fuente del juego ECDL y la aplicación web de gestión de preguntas
+Repository to raise the code source of the game ECDL and the web application of management of questions
